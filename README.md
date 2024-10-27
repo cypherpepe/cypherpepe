@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello! I'm CypherPepe
 
-<!--
-**cypherpepe/cypherpepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 GitHub Stats
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cypherpepe&show_icons=true&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpepe&layout=compact&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+I'm a passionate developer with expertise in **blockchain technology**, **open-source contributions**, and **code optimization**. I love contributing to interesting projects on GitHub and finding new ways to improve code and documentation.
+
+---
+
+## 🌐 Connect with Me
+
+[![X](https://img.shields.io/badge/X-%40cypherpepe-blue)](https://x.com/cypher_frog)
+[![Website](https://img.shields.io/badge/Farcaster-%40cypherpepe-purple)](https://warpcast.com/cypherfrog.eth)
