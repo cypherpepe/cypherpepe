@@ -3,7 +3,7 @@
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cypherpepe&show_icons=true&theme=cobalt)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpepe&layout=compact&theme=cobalt)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpepe&layout=compact&theme=cobalt)-->
 
 ## 🌟 About Me
 
