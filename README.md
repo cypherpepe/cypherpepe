@@ -15,3 +15,6 @@ I'm a passionate developer with expertise in **blockchain technology**, **open-s
 
 [![X](https://img.shields.io/badge/X-%40cypherpepe-blue)](https://x.com/cypher_frog)
 [![Website](https://img.shields.io/badge/Farcaster-%40cypherfrog.eth-purple)](https://warpcast.com/cypherfrog.eth)
+
+---
+[![](https://visitcount.itsvg.in/api?id=cypherpepe&icon=0&color=0)](https://visitcount.itsvg.in)
